@@ -59,3 +59,17 @@ main ol {
 main ol li {
     margin-bottom: 10px;
 }
+
+body.dark {
+    background-color: #333333;
+    color: white;
+}
+
+body.dark h2 {
+    color: #A0D4ED; 
+}
+
+
+footer.dark {
+    background-color: #333333; 
+}
